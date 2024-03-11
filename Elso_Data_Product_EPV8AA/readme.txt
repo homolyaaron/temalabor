@@ -8,3 +8,4 @@ Két oldal van, fiú és lány, a kezelőfelület alján a PowerBI alkalmazásba
 navigálhatunk a jelentés oldalai között.
 A jelentés 2003-2022 Top 100 Fiú és Lány újszükötteknek adott keresztneveket tartalmazza.
 
+A data product adatainak forrása: https://stat.dbhir.com/boysname
