@@ -1,0 +1,4 @@
+A .csv forrása: https://www.kaggle.com/datasets/mdtoomey/box-office-of-dc-and-marvel-superhero-movies?resource=download
+A notebookot jupyter vagy vscode környezetben lehet futtatni,
+kétféle módon, a fájl megynyitásakor a 'Run All' gombra kattintva az adott környezetben,
+vagy Shift+Enter lenyomásával végig lépegetve a notebookban.
